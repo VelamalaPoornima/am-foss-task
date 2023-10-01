@@ -6,7 +6,7 @@
 [Task-00]()|Installing Ubuntu|Completed
 [Task-02]()|Hugo Themes|Completed
 [Task-03]()|Hello, world!|Completed
-[Task-04]()|Programming|Done 7 Questions
+[Task-04]()|Programming|Done Partially
 [Task-05]()|Music Shop|CompDleted
 [Task-06]()|Crickey|Done partially
 [Task-07]()|Weather App|Completed
